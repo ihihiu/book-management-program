@@ -1,0 +1,12 @@
+C:\Users\윤지은\source\repos\BookManager\BookManager\bin\Debug\BookManager.exe.config
+C:\Users\윤지은\source\repos\BookManager\BookManager\bin\Debug\BookManager.exe
+C:\Users\윤지은\source\repos\BookManager\BookManager\bin\Debug\BookManager.pdb
+C:\Users\윤지은\source\repos\BookManager\BookManager\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\윤지은\source\repos\BookManager\BookManager\obj\Debug\BookManager.Form1.resources
+C:\Users\윤지은\source\repos\BookManager\BookManager\obj\Debug\BookManager.Form2.resources
+C:\Users\윤지은\source\repos\BookManager\BookManager\obj\Debug\BookManager.Form3.resources
+C:\Users\윤지은\source\repos\BookManager\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\윤지은\source\repos\BookManager\BookManager\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\윤지은\source\repos\BookManager\BookManager\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\윤지은\source\repos\BookManager\BookManager\obj\Debug\BookManager.exe
+C:\Users\윤지은\source\repos\BookManager\BookManager\obj\Debug\BookManager.pdb
