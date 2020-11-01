@@ -46,6 +46,7 @@ namespace BookManager
 
                     dataGridView1.DataSource = null;
                     dataGridView1.DataSource = DataManager.Books;
+                    DataManager.Save();
                 }catch(Exception ex)
                 {
                     MessageBox.Show("존재하지 않는 도서입니다.");
@@ -72,6 +73,7 @@ namespace BookManager
 
                     dataGridView1.DataSource = null;
                     dataGridView1.DataSource = DataManager.Books;
+                    DataManager.Save();
                 }
             }catch(Exception ex)
             {

@@ -37,6 +37,7 @@ namespace BookManager
 
                         dataGridView1.DataSource = null;
                         dataGridView1.DataSource = DataManager.Users;
+                        DataManager.Save();
                     }
                 }
                 catch (Exception ex) { }
@@ -50,6 +51,8 @@ namespace BookManager
 
                     dataGridView1.DataSource = null;
                     dataGridView1.DataSource = DataManager.Users;
+                    DataManager.Save();
+
                 }
                 catch (Exception ex)
                 {
@@ -65,7 +68,10 @@ namespace BookManager
 
                     dataGridView1.DataSource = null;
                     dataGridView1.DataSource = DataManager.Users;
-                }catch(Exception ex)
+                    DataManager.Save();
+
+                }
+                catch (Exception ex)
                 {
                     MessageBox.Show("존재하지 않는 사용자입니다.");
                 }

@@ -1,0 +1,22 @@
+<books>
+<book>
+   <isbn>123</isbn>
+   <name>도서1</name>
+   <publisher>출판사1</publisher>
+   <page>123</page>
+   <borrowedAt>0001년 1월 1일 월요일</borrowedAt>
+   <isBorrowed>0</isBorrowed>
+   <userId>0</userId>
+   <userName></userName>
+</book>
+<book>
+   <isbn>456</isbn>
+   <name>도서2</name>
+   <publisher>출판사2</publisher>
+   <page>278</page>
+   <borrowedAt>0001년 1월 1일 월요일</borrowedAt>
+   <isBorrowed>0</isBorrowed>
+   <userId>0</userId>
+   <userName></userName>
+</book>
+</books>
